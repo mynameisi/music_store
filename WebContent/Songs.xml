@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<EntireCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="Songs.xsd">
+	<Album >
+		<title>USHER</title>
+		<AlbumArtist>usher</AlbumArtist>
+		<Genre>R/B</Genre>
+		<Year>2010</Year>
+		<Publisher>Sony Music Entertainment</Publisher>
+		<Price>14.99</Price>
+		<Song>
+			<Title>Monstar</Title>
+			<Artist>usher</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Hey Daddy(Daddys Home)</Title>
+			<Artist>usher</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>There Goes My Baby</Title>
+			<Artist>usher</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Lil Freak(Ft. Nicki Minaj)</Title>
+			<Artist>usher</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>She Dont Know(Ft. Ludacris)</Title>
+			<Artist>usher</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title> OMG(Ft. Will.I.Am)</Title>
+			<Artist>usher</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Mars Vs Venus</Title>
+			<Artist>usher</Artist>
+			<price>2.19</price>
+		</Song>
+	</Album>
+	<Album>
+		<title>My World</title>
+		<AlbumArtist>Justin Bieber</AlbumArtist>
+		<Genre>Pop</Genre>
+		<Year>2010</Year>
+		<Publisher>The Island Def Jam Music Group</Publisher>
+		<Price>23.99</Price>
+		<Song>
+			<Title>Baby</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Eenie Meenie</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Never Let You Go</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Overboard</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Runaway Love</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Somebody to Love</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Stuck In the Moment</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>That Should Be Me</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>U Smile</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Up</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>One Time</Title>
+			<Artist>Justin Bieber</Artist>
+			<price>2.19</price>
+		</Song>
+	</Album>
+	<Album>
+		<title>Eternity Invades</title>
+		<AlbumArtist>Vicky Beeching</AlbumArtist>
+		<Genre>Pop</Genre>
+		<Year>2010</Year>
+		<Publisher>Integirty Music</Publisher>
+		<Price>21.99</Price>
+		<Song>
+			<Title>Salvation Day</Title>
+			<Artist>Vicky Beeching</Artist>
+			<price>3.19</price>
+		</Song>
+		<Song>
+			<Title> Blessing And Honor(Be To Your)</Title>
+			<Artist>Vicky Beeching</Artist>
+			<price>3.19</price>
+		</Song>
+		<Song>
+			<Title>Deliverer</Title>
+			<Artist>Vicky Beeching</Artist>
+			<price>3.19</price>
+		</Song>
+		<Song>
+			<Title>Breath Of God</Title>
+			<Artist>Vicky Beeching</Artist>
+			<price>3.19</price>
+		</Song>
+		<Song>
+			<Title>Inhabit The Praise</Title>
+			<Artist>Vicky Beeching</Artist>
+			<price>3.19</price>
+		</Song>
+		<Song>
+			<Title>Glory To God Forever</Title>
+			<Artist>Vicky Beeching</Artist>
+			<price>3.19</price>
+		</Song>
+		<Song>
+			<Title>One Day</Title>
+			<Artist>Vicky Beeching</Artist>
+			<price>3.19</price>
+		</Song>
+	</Album>
+	<Album>
+		<title>Teenage Fantasy</title>
+		<AlbumArtist>Secret and Whisper</AlbumArtist>
+		<Genre>Rock</Genre>
+		<Year>2010</Year>
+		<Publisher>Tooth/Nail Records</Publisher>
+		<Price>8.99</Price>
+		<Song>
+			<Title>Youth Cats</Title>
+			<Artist>Secret and Whisper</Artist>
+			<price>1.19</price>
+		</Song>
+		<Song>
+			<Title>Warrior(Southern Arrowwood)</Title>
+			<Artist>Secret and Whisper</Artist>
+			<price>1.19</price>
+		</Song>
+		<Song>
+			<Title>Bedroom Galaxy</Title>
+			<Artist>Secret and Whisper</Artist>
+			<price>1.19</price>
+		</Song>
+		<Song>
+			<Title>Tiny Sparkle</Title>
+			<Artist>Secret and Whisper</Artist>
+			<price>1.19</price>
+		</Song>
+		<Song>
+			<Title>Famous For A Century</Title>
+			<Artist>Secret and Whisper</Artist>
+			<price>1.19</price>
+		</Song>
+		<Song>
+			<Title>Edge Of Wilderness</Title>
+			<Artist>Secret and Whisper</Artist>
+			<price>1.19</price>
+		</Song>
+		<Song>
+			<Title>Pretty Snarl</Title>
+			<Artist>Secret and Whisper</Artist>
+			<price>1.19</price>
+		</Song>
+		<Song>
+			<Title>Star Blankets</Title>
+			<Artist>Secret and Whisper</Artist>
+			<price>1.19</price>
+		</Song>
+	</Album>
+	<Album>
+		<title>Voodoo</title>
+		<AlbumArtist>Alexz Johnson</AlbumArtist>
+		<Genre>Pop</Genre>
+		<Year>2010</Year>
+		<Publisher>Orange Lounge Recording</Publisher>
+		<Price>20.99</Price>
+		<Song>
+			<Title>Voodoo</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Gonna Get It</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Look At Those Eyes</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>L.A. Made Me</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>A Littte Bit</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Mr. Jones</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Superstition</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Trip Around The World</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Hurricane Girl</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+		<Song>
+			<Title>Taker</Title>
+			<Artist>Alexz Johnson</Artist>
+			<price>2.19</price>
+		</Song>
+	</Album>
+	<Album>
+		<title>Get Off On The Pain</title>
+		<AlbumArtist>Gary Allan</AlbumArtist>
+		<Genre>Country</Genre>
+		<Year>2009</Year>
+		<Publisher>MCA Nashville, Wrasse</Publisher>
+		<Price>13.99</Price>
+		<Song>
+			<Title>Get Off On The Pain</Title>
+			<Artist>Gary Allan</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Today</Title>
+			<Artist>Gary Allan</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>That Ain't Gonna Fly</Title>
+			<Artist>Gary Allan</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Kiss Me When I'm Down</Title>
+			<Artist>Gary Allan</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>We Fly By Night</Title>
+			<Artist>Gary Allan</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>When You Give Yourself Away</Title>
+			<Artist>Gary Allan</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Along The Way</Title>
+			<Artist>Gary Allan</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>She Gets Me</Title>
+			<Artist>Gary Allan</Artist>
+			<price>1.69</price>
+		</Song>
+	</Album>
+	<Album>
+		<title>Thriller</title>
+		<AlbumArtist>michael jackson</AlbumArtist>
+		<Genre>R/B</Genre>
+		<Year>1984</Year>
+		<Publisher>MCA Nashville, Wrasse</Publisher>
+		<Price>32.99</Price>
+		<Song>
+			<Title>Jam</Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+		<Song>
+			<Title>Why You Wanna Trip On Me</Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+		<Song>
+			<Title>In The Closet</Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+		<Song>
+			<Title>Remember The Time</Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+		<Song>
+			<Title>Can't Let Her Get Away</Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+		<Song>
+			<Title>Heal The World</Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+		<Song>
+			<Title> Black Or White </Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+		<Song>
+			<Title>Who Is It</Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+		<Song>
+			<Title>Give In To Me</Title>
+			<Artist>michael jackson</Artist>
+			<price>3.69</price>
+		</Song>
+	</Album>
+	<Album>
+		<title>Crows</title>
+		<AlbumArtist>Allison Moorer</AlbumArtist>
+		<Genre>Country</Genre>
+		<Year>2008</Year>
+		<Publisher>MCA Nashville, Wrasse</Publisher>
+		<Price>19.99</Price>
+		<Song>
+			<Title>Abalone Sky</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Goodbye To The Ground</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Just Another Fool</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>The Broken Girl</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Should I Be Concerned</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title> When You Wake Up Feeling Bad </Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Easy In The Summertime</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>The Stars</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Still This Side Of Gone</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title>Like The Rain</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title> Sorrow(Don't Come Around)</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title> It's Gonna Feel Good </Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+		<Song>
+			<Title> Crows</Title>
+			<Artist>Allison Moorer</Artist>
+			<price>1.69</price>
+		</Song>
+	</Album>
+</EntireCollection>
