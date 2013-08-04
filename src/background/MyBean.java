@@ -4,6 +4,7 @@
 package background;
 
 //for ArrayList
+import java.io.File;
 import java.util.ArrayList;
 import java.util.Date;
 
@@ -58,7 +59,7 @@ public class MyBean implements java.io.Serializable{
 		//获得 WebContent/_res/Songs.xml 文件的相对路径
 		
 		Constants.webAppPath=IO.getWebAppFolder(this.getClass());
-		Constants.songsXMLPath=Constants.webAppPath+"/_res/Songs.xml";
+		Constants.songsXMLPath=Constants.webAppPath+File.separator+"_res"+File.separator+"Songs.xml";
 		
 		parser.parse(Constants.songsXMLPath);
 		Document doc = parser.getDocument();
