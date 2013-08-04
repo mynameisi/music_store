@@ -4,9 +4,11 @@
 package background;
 
 //for ArrayList
-import java.io.File;
 import java.util.ArrayList;
 import java.util.Date;
+
+import ms.helper.Constants;
+import ms.helper.IO;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.NodeList;
@@ -53,12 +55,10 @@ public class MyBean implements java.io.Serializable{
 		//parsing the Songs.xml
 		DOMParser parser = new DOMParser();
 		
-		java.net.URL r = this.getClass().getClassLoader().getResource("/");
-	    String filePath = r.getFile();
-	    String webAppLoc=new File(filePath).getParentFile().getParent();
-		System.out.println("decoded: "+webAppLoc+"/_res/Songs.xml");
+		Constants.webAppPath=IO.getWebAppFolder(this.getClass());
+		Constants.songsXMLPath=Constants.webAppPath+"/_res/Songs.xml";
 		
-		parser.parse(webAppLoc+"/_res/Songs.xml");
+		parser.parse(Constants.songsXMLPath);
 		Document doc = parser.getDocument();
 		NodeList list = doc.getElementsByTagName("*");
 		if(searchType.equals("AlbumArtist") && mainSearchType.equals("S")){
