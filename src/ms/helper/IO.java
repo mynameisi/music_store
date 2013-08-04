@@ -1,4 +1,7 @@
 package ms.helper;
+/*
+ * this helper class aimed at IO assistantce
+ */
 
 import java.io.File;
 import java.net.URL;
