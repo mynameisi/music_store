@@ -1,5 +1,6 @@
 /**
  * this class serves as the static content holder
+ * 
  */
 package ms.helper;
 
