@@ -6,7 +6,6 @@ package background;
 //for ArrayList
 import java.io.File;
 import java.util.ArrayList;
-import java.util.Date;
 
 import ms.helper.Constants;
 import ms.helper.IO;
@@ -21,8 +20,12 @@ import com.sun.org.apache.xerces.internal.parsers.DOMParser;
  *
  */
 public class MyBean implements java.io.Serializable{
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
 	private ArrayList<Album> albumList=new ArrayList<Album>();//the list of albums with the searching songs in it.
-	private String mainSearchType=null;
+	//private String mainSearchType=null;
 	public int indicator=0;//use to indicate "searching for album but entered a song name"
 	MyBean(){
 		
@@ -34,14 +37,14 @@ public class MyBean implements java.io.Serializable{
 	//	this.albumList=albumList;
 	//}
 	public void setAlbumList(String searchType, String searchContent, String mainSearchType) throws Exception{
-		this.mainSearchType=mainSearchType;
+		//this.mainSearchType=mainSearchType;
 		
 		Album album=null;
 		
 		String AlbumTitle=null;
 		String AlbumArtist=null;
 		String Genre=null;
-		Date Year=null;
+		//Date Year=null;
 		String Publisher=null;
 		String Price=null;
 		String date=null;
@@ -55,12 +58,6 @@ public class MyBean implements java.io.Serializable{
 		
 		//parsing the Songs.xml
 		DOMParser parser = new DOMParser();
-		
-		//获得 WebContent/_res/Songs.xml 文件的相对路径
-		
-		Constants.webAppPath=IO.getWebAppFolder(this.getClass());
-		Constants.songsXMLPath=Constants.webAppPath+File.separator+"_res"+File.separator+"Songs.xml";
-		
 		parser.parse(Constants.songsXMLPath);
 		Document doc = parser.getDocument();
 		NodeList list = doc.getElementsByTagName("*");
