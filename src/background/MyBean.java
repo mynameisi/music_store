@@ -55,6 +55,8 @@ public class MyBean implements java.io.Serializable{
 		//parsing the Songs.xml
 		DOMParser parser = new DOMParser();
 		
+		//获得 WebContent/_res/Songs.xml 文件的相对路径
+		
 		Constants.webAppPath=IO.getWebAppFolder(this.getClass());
 		Constants.songsXMLPath=Constants.webAppPath+"/_res/Songs.xml";
 		
